@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.villsi.net/sitemap.xml
